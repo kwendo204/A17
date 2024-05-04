@@ -6,7 +6,7 @@
 
 <p align="center">
    <a href="https://github.com/Kai0071">
-    <img src="https://graph.org/file/14d7cc038fa3192a8fe43.jpg" width="249">
+    <img src="https://github.com/kwendo204/Sangilo/assets/160314280/5d50c4d5-01ed-4cb2-9aba-420367143e75">
 </p>
 
 <h1 align="center"> A17 BoT (Beta)</h1>
